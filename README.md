@@ -1,2 +1,2 @@
 # BPM-Crises-Management-Project
-This is the Project we created for the Business Process Modelling Class.
+In this project, we simultaed the crisis management response of an imaginary city of Bois using Bonita and Prom.
